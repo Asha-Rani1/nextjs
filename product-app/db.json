@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id": 1, "name": "Product 1", "price": 600, "category": "food", "description": "Description for Product 1" },
+    { "id": 2, "name": "Product 2", "price": 200, "category": "sports", "description": "Description for Product 2" },
+    { "id": 3, "name": "Product 3", "price": 150, "category": "Books", "description": "Description for Product 3" },
+    { "id": 4, "name": "Product 4", "price": 250, "category": "technology", "description": "Description for Product 4" },
+    { "id": 5, "name": "Product 5", "price": 300, "category": "news", "description": "Description for Product 5" }
+  ]
+}
